@@ -1,0 +1,4 @@
+out/
+*.class
+rapport/generer_rapport.py
+rapport/__pycache__/
